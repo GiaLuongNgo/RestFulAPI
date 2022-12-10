@@ -15,7 +15,7 @@
     "dotenv": "^7.0.0",
     "eslint": "^5.15.3",
     "eslint-plugin-vue": "^5.2.2",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "jsonwebtoken": "^8.5.1",
     "morgan": "^1.9.1",
     "nodemon": "^1.18.10",
